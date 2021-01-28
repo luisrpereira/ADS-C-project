@@ -4,6 +4,7 @@
 #include <locale.h>
 #include <ctype.h>
 
+#
 // MENU
 void menu() {
 	printf("**************************** [ REGISTO DE PACIENTES ] ******************************\n");
